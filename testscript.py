@@ -1,3 +1,3 @@
 x = 2
 y = "test"
-print(x + y)
+print(str(x) + y)
